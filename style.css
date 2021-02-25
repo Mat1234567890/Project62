@@ -1,0 +1,40 @@
+#Body{
+background-color: mediumslateblue;
+text-align: center;
+}
+div{
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 15px;
+margin-right: 15px;
+}
+.image-section{
+display: flex;
+justify-content: center;
+}
+.sectionstyle{
+margin-right: 25px;
+margin-left: 25px;
+}
+#img1{
+width: 300px;
+}#img2{
+width: 382px;
+}
+#My-Carousel{
+height: 200px auto;
+}
+.container
+{
+    text-align: center;
+}
+#My-Carousel img{
+height: 300px;
+margin-top: 35px;
+}
+.carousel-inner p{
+color: white;
+font-size: 50px;
+margin-top: 15px;
+margin-bottom: 15px;
+}
